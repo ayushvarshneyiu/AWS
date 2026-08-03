@@ -2,4 +2,5 @@ to track changes and aws monitor iam activities?
     -->aws cloudtrail records api activity in your account including changes to iam users,policies and roles
 
 
-* depending upon you cpu,memory, storage, networking  we choose type of instance required for an application.
+* depending upon you cpu,memory, storage, networking  we choose type of instance required for an application.aws provide various instance families optimized for differnt use cases such as compute
+memory,storage optimized and gpu instance.
