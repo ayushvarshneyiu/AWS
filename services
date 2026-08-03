@@ -1,0 +1,2 @@
+to track changes and aws monitor iam activities?
+    -->aws cloudtrail records api activity in your account including changes to iam users,policies and roles
