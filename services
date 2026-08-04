@@ -11,4 +11,6 @@ ebs snapshot- its  a point in time copy of an EBS volume.
                 it is used to create backup.
                 migrate data between region
                 And to create volumes.
+
+highly availbale - deploy the application in multi azs within a region and we can have instances behind elastic load balancer so as to distribute traffic. 
                 
