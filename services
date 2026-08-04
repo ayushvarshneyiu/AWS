@@ -15,4 +15,6 @@ ebs snapshot- its  a point in time copy of an EBS volume.
 highly availbale - deploy the application in multi azs within a region and we can have instances behind elastic load balancer so as to distribute traffic. 
                 
 Q. isntance store and EBS volume
-    instance store is local,temporary storage that is physically attached to host machine data persist as long as ec3 running. 
+    instance store is local,temporary storage that is physically attached to host machine data persist as long as ec2 running.
+    EBS volume is a network attached storage that provide durable and resizable block level storage.
+
