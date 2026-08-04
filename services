@@ -4,3 +4,6 @@ to track changes and aws monitor iam activities?
 
 * depending upon you cpu,memory, storage, networking  we choose type of instance required for an application.aws provide various instance families optimized for differnt use cases such as compute
 memory,storage optimized and gpu instance.
+
+
+ebs snapshot- its  a point in time copy of an EBS volume.
