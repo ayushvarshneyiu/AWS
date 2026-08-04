@@ -18,3 +18,4 @@ Q. isntance store and EBS volume
     instance store is local,temporary storage that is physically attached to host machine data persist as long as ec2 running.
     EBS volume is a network attached storage that provide durable and resizable block level storage.
 
+user data property when launching ec2 instance-it is for bootup script,instance configiration,software installation,appplication setup.
