@@ -7,3 +7,8 @@ memory,storage optimized and gpu instance.
 
 
 ebs snapshot- its  a point in time copy of an EBS volume.
+        uses==
+                it is used to create backup.
+                migrate data between region
+                And to create volumes.
+                
