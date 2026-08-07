@@ -21,3 +21,9 @@ Q. isntance store and EBS volume
 user data property when launching ec2 instance-it is for bootup script,instance configiration,software installation,appplication setup.
 
 yes we can share ami with other aws accounts too by making it public.
+
+
+-*-- to secure access we implement iam policies and s3 policies to control access to your s3 bucket.additinally we can enable s3 access pointsto manange
+access more granularly.
+
+
