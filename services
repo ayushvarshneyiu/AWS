@@ -42,3 +42,6 @@ ALB VS NLB
 ALB operate at application layer it support content based routing and path based moslty handles tcp/udp request.
 
 NLB operate at transport layer it provide low network policy and handles tcp/udp request.
+
+can elb distribute traffic to different region?
+no its  single spefic region but if you want it you can use it to distribute traffic to differnet region combination of dns based laod balancing or using aws global accelerator can be employed.  
