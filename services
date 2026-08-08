@@ -33,3 +33,5 @@ AWS secret manager is a service designed to secure storage and management of sec
 ===aws organisation is used to centrally managed multiple aws account and then setup cross account iam roles to grant access to users fro mone account resources to anoteher account.
 
 single signon is a service that allows you to manage mulitple acess to multiple aws accounts and applications. 
+
+restrict access to certain ec2 instance based on specific tags env=prod so to achieve this we use iam policies with condition keys to control access based on ec2 instance tags.
