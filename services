@@ -35,3 +35,10 @@ AWS secret manager is a service designed to secure storage and management of sec
 single signon is a service that allows you to manage mulitple acess to multiple aws accounts and applications. 
 
 restrict access to certain ec2 instance based on specific tags env=prod so to achieve this we use iam policies with condition keys to control access based on ec2 instance tags.
+
+=======================================================
+
+ALB VS NLB
+ALB operate at application layer it support content based routing and path based moslty handles tcp/udp request.
+
+NLB operate at transport layer it provide low network policy and handles tcp/udp request.
