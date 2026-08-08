@@ -28,4 +28,6 @@ access more granularly.
 
 AWS secret manager is a service designed to secure storage and management of secrets including automatic rotation. 
 
+===* dr setup for on premises we have aws data backup and aws storage gw
+
 
