@@ -31,3 +31,5 @@ AWS secret manager is a service designed to secure storage and management of sec
 ===* dr setup for on premises we have aws data backup and aws storage gw
 
 ===aws organisation is used to centrally managed multiple aws account and then setup cross account iam roles to grant access to users fro mone account resources to anoteher account.
+
+single signon is a service that allows you to manage mulitple acess to multiple aws accounts and applications. 
